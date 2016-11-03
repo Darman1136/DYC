@@ -35,6 +35,8 @@
 *.opensdf
 *.sdf
 *.sln
+# maybe this aswell?
+*.VC.db
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -65,4 +67,7 @@ DerivedDataCache/*
 *.swp
 *.swo
 .ctrlp_cache/
+
+# Big Starter content
+Content/StarterContent/HDRI/*
 
