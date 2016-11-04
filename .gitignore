@@ -69,5 +69,8 @@ DerivedDataCache/*
 .ctrlp_cache/
 
 # Big Starter content
-Content/StarterContent/HDRI/*
+Content/StarterContent/*
+
+# ignore map changes for now
+Content/Maps/*
 
